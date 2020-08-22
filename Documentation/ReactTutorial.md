@@ -67,3 +67,4 @@ In the command prompt, type the following command:
 #Displaying Content with Functional Components
 
 -A component is a (Function or a Class) -> That produces HTML to show the user (Using JSX) -> And handles feedback from the user (using Event Handlers)
+-
